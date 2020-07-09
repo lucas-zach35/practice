@@ -1,2 +1,2 @@
 # practice
-practice repository for fucking with git
+practice repository for playing with git
